@@ -1,4 +1,4 @@
-package cn.mwee.xumaox;
+package com.github.xumaox;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

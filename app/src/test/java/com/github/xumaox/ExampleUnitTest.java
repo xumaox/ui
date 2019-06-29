@@ -1,4 +1,4 @@
-package cn.mwee.xumaox;
+package com.github.xumaox;
 
 import org.junit.Test;
 
